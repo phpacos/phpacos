@@ -19,6 +19,8 @@ My name is Paulo Costa, I'm a System Development student, currently improving my
 ## How to contact me?
    
    :phone: +55 (61) 9833-61141
+   
    :email: phpacos@gmail.com
-   :wrench: [Linkedin] (https://www.linkedin.com/in/paulo-costa-92813612b/) 
+   
+   :wrench: Linkedin (https://www.linkedin.com/in/paulo-costa-92813612b/) 
    
