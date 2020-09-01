@@ -11,4 +11,5 @@ My name is Paulo Costa, I'm a System Development student, currently improving my
 - 👯 I’m looking to collaborate on group project and
 - 📫 How to reach me: 
    +55 (61) 9833-61141
+   phpacos@gmail.com
    
